@@ -15,11 +15,11 @@ Cualquier cambio y/o mejora al programa es bienvenido.
 
 ## Requerimientos
 
-Para ejecutar el código necesita Python 3.#
+- Para ejecutar el código necesita Python 3.#
 
 ## Ejecución
 
-Para ejecutar el código abrir una consola de comando y dirigirse a la carpeta del proyecto y
+- Para ejecutar el código abrir una consola de comando y dirigirse a la carpeta del proyecto y
 en la consola escribir:
 
 ` python Sumador.py `
