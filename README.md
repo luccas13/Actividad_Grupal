@@ -11,11 +11,11 @@ usuario para luego mostrar por pantalla la suma entre ellos.
 
 Cualquier cambio y/o mejora al programa es bienvenido.
 
-- Para modificar o agregar algo simplemente abrir el código con cualquier editor de texto plano.
+- Para modificar o añadir algún cambio simplemente abrir el código con cualquier editor de texto plano.
 
 ## Requerimientos
 
-- Para ejecutar el código necesita Python 3.#
+- Python 3.9
 
 ## Ejecución
 
