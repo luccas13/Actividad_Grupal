@@ -1,4 +1,4 @@
-#se modifica linea 7 se remplaza el + por el -
+
 #Se modifica la variable a con el valor ingresado por teclado
 a =  int(input("Ingrese un número: "))
 #Se modifica la variable b con el valor ingresado por teclado
