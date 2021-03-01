@@ -5,7 +5,7 @@
 ## Descripción
 
 Este programa recibe por teclado dos valores ingresados por el 
-usuario para luego mostrar por pantalla la suma entre ellos.
+usuario para luego mostrar por pantalla la resta entre ellos.
 
 ## Contribución
 
